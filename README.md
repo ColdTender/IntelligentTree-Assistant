@@ -30,7 +30,7 @@ AutoTest.py
 
 ### Chrome 浏览器加载本地cookie
 
-将C:\Users\<用户名>\AppData\Local\Google\Chrome\User Data  的User Data文件夹复制一份放在自己相放的地方，并将复制的文件夹路径填入代码的path中
+将C:\Users\<用户名>\AppData\Local\Google\Chrome\User Data  的User Data文件夹复制一份放在自己喜欢的地方，并将复制的文件夹路径填入代码的path中
 
 ### 操作步骤
 
